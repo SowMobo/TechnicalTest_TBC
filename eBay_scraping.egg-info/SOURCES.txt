@@ -1,0 +1,7 @@
+README.md
+setup.py
+eBay_scraping.egg-info/PKG-INFO
+eBay_scraping.egg-info/SOURCES.txt
+eBay_scraping.egg-info/dependency_links.txt
+eBay_scraping.egg-info/entry_points.txt
+eBay_scraping.egg-info/top_level.txt
